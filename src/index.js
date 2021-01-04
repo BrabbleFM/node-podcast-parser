@@ -104,6 +104,7 @@ module.exports = function parse(feedXML, callback) {
               }, 0)
           };
         },
+        'itunes:new-feed-url': 'newUrl',
         'itunes:explicit': isExplicit,
         'itunes:season': 'season',
         'itunes:episode': 'episode',

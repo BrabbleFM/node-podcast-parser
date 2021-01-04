@@ -4,3 +4,4 @@ npm-debug.log
 .coveralls.yml
 .DS_Store
 index.js
+.npmrc

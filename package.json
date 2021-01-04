@@ -1,5 +1,5 @@
 {
-  "name": "node-podcast-parser",
+  "name": "@brabblefm/node-podcast-parser",
   "description": "Parse podcast feeds into objects",
   "version": "2.3.0",
   "main": "index.js",
