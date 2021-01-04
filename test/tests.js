@@ -1,13 +1,13 @@
-const path   = require('path');
-const fs     = require('fs');
+const path = require('path');
+const fs = require('fs');
 const expect = require('expect.js');
-const parse  = require('./../index');
+const parse = require('./../index');
 
 describe('Podcast feed parser', () => {
 
   const fixtures = {};
 
-  before(function(done) {
+  before(function (done) {
     const fixturePath = path.join(__dirname, 'fixtures');
     fs.readdir(fixturePath, (err, files) => {
       if (err) {
@@ -32,7 +32,7 @@ describe('Podcast feed parser', () => {
     });
   });
 
-  it('should return expected format', function(done) {
+  it('should return expected format', function (done) {
     parse(fixtures['apple-example'], (err, data) => {
       if (err) {
         return done(err);
@@ -93,7 +93,7 @@ describe('Podcast feed parser', () => {
     });
   });
 
-  it('should parse apple feed', function(done) {
+  it('should parse apple feed', function (done) {
     parse(fixtures['apple-example'], (err, data) => {
       if (err) {
         return done(err);
@@ -113,6 +113,7 @@ describe('Podcast feed parser', () => {
         language: 'en-us',
         updated: utcDate(2014, 5, 15, 19, 0, 0),
         author: 'John Doe',
+        newUrl: 'http://example.com/new-feed-url.rss',
         owner: {
           name: 'John Doe',
           email: 'john.doe@example.com'
@@ -146,7 +147,7 @@ describe('Podcast feed parser', () => {
     });
   });
 
-  it('should parse javascript air feed', function(done) {
+  it('should parse javascript air feed', function (done) {
     parse(fixtures['javascript-air'], (err, data) => {
       if (err) {
         return done(err);
@@ -203,7 +204,7 @@ describe('Podcast feed parser', () => {
     });
   });
 
-  it('should parse scale your code feed', function(done) {
+  it('should parse scale your code feed', function (done) {
     parse(fixtures['scale-your-code'], (err, data) => {
       if (err) {
         return done(err);
@@ -256,7 +257,7 @@ describe('Podcast feed parser', () => {
     });
   });
 
-  it('should parse rtve-podcast feed', function(done) {
+  it('should parse rtve-podcast feed', function (done) {
     parse(fixtures['rtve-podcast'], (err, data) => {
       if (err) {
         return done(err);
@@ -265,8 +266,8 @@ describe('Podcast feed parser', () => {
       const podcast = Object.assign({}, data);
       delete podcast.episodes;
 
-       expect(podcast).to.eql({
-         title: 'Tiempo de valientes. El diario de Julián Martínez',
+      expect(podcast).to.eql({
+        title: 'Tiempo de valientes. El diario de Julián Martínez',
         description: {
           long: 'Al final del capítulo 9 de El Ministerio del Tiempo, vimos a Julián Martínez huir del ministerio por una puerta. ¿Qué sucedió con él? ¿Volverá? Descúbrelo en el diario sonoro de Julián Martínez en Cuba, la ficción sonora de RTVE.ES, Radio Nacional, Onza Entertainment y Cliffhanger TV protagonizada por Rodolfo Sancho.',
         },
@@ -287,7 +288,7 @@ describe('Podcast feed parser', () => {
   });
 
 
-  it('should parse se-radio feed', function(done) {
+  it('should parse se-radio feed', function (done) {
     parse(fixtures['se-radio'], (err, data) => {
       if (err) {
         return done(err);
@@ -346,7 +347,7 @@ describe('Podcast feed parser', () => {
     });
   });
 
-  it('should parse design details feed', function(done) {
+  it('should parse design details feed', function (done) {
     parse(fixtures['design-details'], (err, data) => {
       if (err) {
         return done(err);
@@ -401,7 +402,7 @@ describe('Podcast feed parser', () => {
     });
   });
 
-  it('should parse neo4j feed', function(done) {
+  it('should parse neo4j feed', function (done) {
     parse(fixtures['neo4j'], (err, data) => {
       if (err) {
         return done(err);
@@ -456,7 +457,7 @@ describe('Podcast feed parser', () => {
     });
   });
 
-  it('should parse iOS 11 feeds from coding blocks', function(done) {
+  it('should parse iOS 11 feeds from coding blocks', function (done) {
     parse(fixtures['coding-blocks'], (err, data) => {
       if (err) {
         return done(err);
@@ -505,7 +506,7 @@ describe('Podcast feed parser', () => {
     });
   });
 
-  it('should parse libsyn example feed episode', function(done) {
+  it('should parse libsyn example feed episode', function (done) {
     parse(fixtures['libsyn-example-podcast'], (err, data) => {
       if (err) {
         return done(err);
@@ -535,7 +536,7 @@ describe('Podcast feed parser', () => {
     });
   });
 
-  it('should parse isExplicit', function(done) {
+  it('should parse isExplicit', function (done) {
     parse(fixtures['libsyn-example-podcast'], (err, data) => {
       if (err) {
         return done(err);
@@ -550,7 +551,7 @@ describe('Podcast feed parser', () => {
     });
   });
 
-  it('should parse complex genres', function(done) {
+  it('should parse complex genres', function (done) {
     parse(fixtures['complex-genre'], (err, data) => {
       if (err) {
         return done(err);
@@ -570,7 +571,7 @@ describe('Podcast feed parser', () => {
     });
   });
 
-  it('should call callback', function(done) {
+  it('should call callback', function (done) {
     parse(fixtures['apple-example'], (err) => {
       if (!err) {
         return done(err);
@@ -580,7 +581,7 @@ describe('Podcast feed parser', () => {
     });
   });
 
-  it('should callback with error', function(done) {
+  it('should callback with error', function (done) {
     parse('invalid xml', (err) => {
       if (err) {
         return done();

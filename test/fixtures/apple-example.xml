@@ -13,6 +13,7 @@
       <itunes:name>John Doe</itunes:name>
       <itunes:email>john.doe@example.com</itunes:email>
     </itunes:owner>
+    <itunes:new-feed-url>http://example.com/new-feed-url.rss</itunes:new-feed-url>
     <itunes:image href="http://example.com/podcasts/everything/AllAboutEverything.jpg"/>
     <itunes:explicit>yes</itunes:explicit>
     <itunes:category text="Technology">

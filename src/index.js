@@ -22,7 +22,6 @@ module.exports = function parse(feedXML, callback) {
       attributes: nextNode.attributes,
       parent: node
     };
-
     if (!node.parent) {
       return;
     }
@@ -44,10 +43,12 @@ module.exports = function parse(feedXML, callback) {
               lang = `${lang}-${lang}`;
             }
           }
-          return { language: lang.toLowerCase() }; },
+          return { language: lang.toLowerCase() };
+        },
         'itunes:author': 'author',
         'itunes:subtitle': 'description.short',
         'description': 'description.long',
+        'itunes:new-feed-url': 'newUrl',
         'ttl': text => { return { ttl: parseInt(text) }; },
         'pubDate': text => { return { updated: new Date(text) }; },
         'itunes:explicit': isExplicit,
@@ -104,7 +105,6 @@ module.exports = function parse(feedXML, callback) {
               }, 0)
           };
         },
-        'itunes:new-feed-url': 'newUrl',
         'itunes:explicit': isExplicit,
         'itunes:season': 'season',
         'itunes:episode': 'episode',
@@ -180,7 +180,7 @@ module.exports = function parse(feedXML, callback) {
     }
   };
 
-  parser.onend = function() {
+  parser.onend = function () {
     // sort by date descending
     if (result.episodes) {
       result.episodes = result.episodes.sort((item1, item2) => {
