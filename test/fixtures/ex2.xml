@@ -1,0 +1,919 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/feed/rss.xslt" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podaccess="https://access.acast.com/schema/1.0/" xmlns:acast="https://schema.acast.com/1.0/">
+		<channel>
+				<ttl>60</ttl>
+
+				<generator>pippa.io</generator>
+
+				<title>Australian Military History</title>
+
+				<link>https://player.whooshkaa.com/shows/australian-military-history</link>
+
+			<atom:link href="https://feeds.acast.com/public/shows/5f7677641653f33cb34923b6" rel="self" type="application/rss+xml"/>
+				<language>en</language>
+
+				<copyright><![CDATA[Copyright Warwick O'Neill]]></copyright>
+
+				<itunes:keywords>military, military history, Australian military history, Australian History, AIF, ANZAC, </itunes:keywords>
+
+				<itunes:author><![CDATA[Warwick O'Neill]]></itunes:author>
+
+				<itunes:subtitle>A walk through</itunes:subtitle>
+
+				<itunes:summary><![CDATA[Foucssing on specific events, people and groups throughout the history of Australia at arms<br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>]]></itunes:summary>
+
+				<description><![CDATA[Foucssing on specific events, people and groups throughout the history of Australia at arms<br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>]]></description>
+
+				<itunes:explicit>no</itunes:explicit>
+
+				<itunes:owner>
+					<itunes:name><![CDATA[Warwick O'Neill]]></itunes:name>
+					<itunes:email>info+5f7677641653f33cb34923b6@mg.pippa.io</itunes:email>
+</itunes:owner>
+
+				<acast:showId>5f7677641653f33cb34923b6</acast:showId>
+
+			<acast:signature key="EXAMPLE" algorithm="aes-256-cbc"><![CDATA[trKcAW/uinNR9ALxyk3TYA==]]></acast:signature>
+				<acast:settings><![CDATA[l0iN+jMJv+xqVn8Ss3wEO8yue5t/M1RJPcK29LqPT7flZZxv+ec+n9uQaXwQK37/vz4NrPkcRI2EO/RM61+JkZrYDnKSkfaud1IRh3z2g7MpiYqeyy/FMgPvkBCvv/DEtHJiYV7QPUuZ1BbTNCCnrAkI1rGLItVw/p+fsLcyA0Jaw11lVPkBLenC+v1wf0hGEHnGU3tgJ7ihHDFQO8ASXK/lnYFRy0eOWOuJqESXvJPi5Yd6TkjwGv9a6rRy+vc2GWAjfHncCdY8mrCsZeg0n/scz951C1CNK/mqPuJlPT59BgIdG6aSm61qi5rln2Hk5CPz88YWh97fnjXXIhPrl09nYdwOU7DNMD8Ibg4qbKBiTPT97wPpgi4FXICum/89yyGvSCNAa4oaifQqnzqb6D9ySY4zSEHP4XmfzKJjEjCiR7aBC6O8me5KTbXrgNdZfVOE0OgPmCYvMHK95ElfBy9484S9pa3w0+Sg3i14STcA6o7R7RhO0lp7dyuFOe0TI9az3cwoRRVG64iaG8rmQwlL7fgWzmqgNewEf5xvKebwZAi1PAcnWsRHMdBeVBnPsuLmCbN0Wlp1RVMDT5UdJL2mfmmKa1yE3FmlczD9LUzQubb52+IA10CGARxcOnhrSVFCt1KausXO6C9uYMyBSo/evlie31CR4EXW7YJNMYMY5HBmlG+zkQ3AF1q+Rl7d7FLTzNk9Xgs6IrxuKeBjx96IY+UC34TcsS3CE/XMV+tsGHv7snGMGztNyMihHpJna9uay+JmPIj3tn8gR0r93IM6Xy9FbCnSM10wzwbsk+iRViWWp90MbRq0perkFt2S5+zUaVb+RcprrXPxRiJQN7P6rdVAeLN6MvkLeVfs8Cg=]]></acast:settings>
+
+			<acast:network id="5f7cafbb4748d25f7115150f" slug="australian-military-history"><![CDATA[Warwick O'Neill]]></acast:network>
+				<acast:importedFeed>https://rss.whooshkaa.com/rss/podcast/id/7234</acast:importedFeed>
+
+				<itunes:type>episodic</itunes:type>
+
+			<itunes:image href="https://assets.pippa.io/shows/5f7677641653f33cb34923b6/show-cover.jpg"/>
+				<image>
+					<url>https://assets.pippa.io/shows/5f7677641653f33cb34923b6/show-cover.jpg</url>
+					<link>https://player.whooshkaa.com/shows/australian-military-history</link>
+					<title>Australian Military History</title>
+</image>
+
+				<itunes:new-feed-url>https://feeds.acast.com/public/shows/5f7677641653f33cb34923b6</itunes:new-feed-url>
+
+				<item>
+						<title>The Team</title>
+
+						<itunes:title>The Team</itunes:title>
+
+						<pubDate>Tue, 06 Jul 2021 20:00:54 GMT</pubDate>
+
+						<itunes:duration>17:18</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/5f7677641653f33cb34923b6/e/60e2fd7076d27e0012899a24/media.mp3" length="11740731" type="audio/mpeg"/>
+					<guid isPermaLink="false">60e2fd7076d27e0012899a24</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://shows.acast.com/5f7677641653f33cb34923b6/episodes/the-team</link>
+
+						<acast:episodeId>60e2fd7076d27e0012899a24</acast:episodeId>
+
+						<acast:episodeUrl>the-team</acast:episodeUrl>
+
+						<acast:settings><![CDATA[l0iN+jMJv+xqVn8Ss3wEOw7W2apQvmyzX4P94s19MSpPpzGjO/KiI2pFlWSlhi1/NZxa7BgRtX28XIm/wktfPAdJHxifzviYXsKfQpyoI9p8ohO3Y3RJ8Y7wq2jcTW5Y4pcz7xfQxM0YaNlbfUQztco8SeVuvfTnZvQ0o3SBcM1+7N3eTZBO70TALu2Pd9nToZ98nFy4KRS0UTB9soSS/SN1mlyEuCDaryjOJz9EqU4fsy7d9Bw56OY+n6elbaXajDj/s2c9wrKU3x+q9Ni8u7hYDrqpOaY4Wq4l+eFhg80bDZCka/Y0WcCmfyS/w1pS/WrwSmhLKLHL8ArsBFmlA5Ad5doxdOs+tEWLkyVqHZ86ssCiLKwCHLHP7PITK2kxdbT1LtAb/Wndz3uDpoX3Lf4NSVjTbRAutLGmhP6EScTvTgk6nPUJio3XywloyAlM83IAFnhjXQwVl8ctGTtTvh/T00VHZecPLIOM4qXHDdxWh/TlEJ2CL2GC6rE+lgfn4wjhc2XSuroLBvz4HSDLT/blTCth9LIXodxUoEu5ZUVL7QLruAmzZyn0xnqdESO7]]></acast:settings>
+
+						<itunes:subtitle>The Australian Army Training Team Vietnam</itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:episode>25</itunes:episode>
+
+					<itunes:image href="https://assets.pippa.io/shows/5f7677641653f33cb34923b6/1625488546737-475db9bdb6e30f5cd0e52a954c0adad3.jpeg"/>
+						<description><![CDATA[Australia's longest running individual unit commitment was an advisory group working with the South Vietnamese forces against the North. Operating individually and in small groups, the advisors moved into an active combat role, leading the troops they had trained and in the process becoming the most decorated unit in the Vietnam War.<br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>]]></description>
+
+						<itunes:summary><![CDATA[Australia's longest running individual unit commitment was an advisory group working with the South Vietnamese forces against the North. Operating individually and in small groups, the advisors moved into an active combat role, leading the troops they had trained and in the process becoming the most decorated unit in the Vietnam War.<br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>Diggers in Russia</title>
+
+						<itunes:title>Diggers in Russia</itunes:title>
+
+						<pubDate>Tue, 15 Jun 2021 20:00:40 GMT</pubDate>
+
+						<itunes:duration>41:09</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/5f7677641653f33cb34923b6/e/60c5e2bd820e8e0012590fd5/media.mp3" length="27049917" type="audio/mpeg"/>
+					<guid isPermaLink="false">60c5e2bd820e8e0012590fd5</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://shows.acast.com/5f7677641653f33cb34923b6/episodes/diggers-in-russia</link>
+
+						<acast:episodeId>60c5e2bd820e8e0012590fd5</acast:episodeId>
+
+						<acast:episodeUrl>diggers-in-russia</acast:episodeUrl>
+
+						<acast:settings><![CDATA[l0iN+jMJv+xqVn8Ss3wEOw7W2apQvmyzX4P94s19MSpPpzGjO/KiI2pFlWSlhi1/NZxa7BgRtX28XIm/wktfPAdJHxifzviYXsKfQpyoI9p8ohO3Y3RJ8Y7wq2jcTW5Y4pcz7xfQxM0YaNlbfUQztco8SeVuvfTnZvQ0o3SBcM1+7N3eTZBO70TALu2Pd9nToZ98nFy4KRS0UTB9soSS/SN1mlyEuCDaryjOJz9EqU7BEsM6kNiSb63miOAD2BmrzQcih5r2LnrVAyTsgtV1FtIJTzc+4B2rW6aQsvXvu9jiX9mfcV5hZtZJfBOx7MnlHUrL3tngD0JQvfJOwtCzeDvMbf02oNRwW2nlnbq/wgizb/muaCKBcTayHNGBNboro+4/vXWyxekfaqNPoZJolTLWcVGWO5YzWH2nmnTSFZMa9odaTmuFwxRsocd5pOL5P5UMZ/d/Atp+zrOi9Q/y/uMqK44SsGAXfx4XTbvMtsm5eL2gQThkAC0avF94HgFjbiTMT76d5xIIjSU8/D51AF2BkjP1Rlv1poOFhmDlbyI0JT0M6yDYYH3475RNtI3H]]></acast:settings>
+
+						<itunes:subtitle><![CDATA[Australia's involvement in the Russian Civil War]]></itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:episode>24</itunes:episode>
+
+					<itunes:image href="https://assets.pippa.io/shows/5f7677641653f33cb34923b6/1623581142356-2d78c304a9cbb0f1e32581c04a7ee531.jpeg"/>
+						<description><![CDATA[After the Russian Revolution and the withdrawal of Russia from the war, a bitter civil war erupted for the control of Russia. In 1919, a British volunteer force, including Australians, was deployed to Northern Russia to assist the Russian White Army against the Communist Red Army. The Great War was over, but for some the prospect of another fight was too good to ignore.  <br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>]]></description>
+
+						<itunes:summary><![CDATA[After the Russian Revolution and the withdrawal of Russia from the war, a bitter civil war erupted for the control of Russia. In 1919, a British volunteer force, including Australians, was deployed to Northern Russia to assist the Russian White Army against the Communist Red Army. The Great War was over, but for some the prospect of another fight was too good to ignore.  <br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>The Borneo Campaign Part 3</title>
+
+						<itunes:title>The Borneo Campaign Part 3</itunes:title>
+
+						<pubDate>Tue, 25 May 2021 14:06:40 GMT</pubDate>
+
+						<itunes:duration>48:33</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/5f7677641653f33cb34923b6/e/60ab9ee072ea240012804801/media.mp3" length="32372283" type="audio/mpeg"/>
+					<guid isPermaLink="false">60ab9ee072ea240012804801</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://shows.acast.com/5f7677641653f33cb34923b6/episodes/the-borneo-campaign-part-3</link>
+
+						<acast:episodeId>60ab9ee072ea240012804801</acast:episodeId>
+
+						<acast:episodeUrl>the-borneo-campaign-part-3</acast:episodeUrl>
+
+						<acast:settings><![CDATA[l0iN+jMJv+xqVn8Ss3wEOw7W2apQvmyzX4P94s19MSpPpzGjO/KiI2pFlWSlhi1/NZxa7BgRtX28XIm/wktfPAdJHxifzviYXsKfQpyoI9p8ohO3Y3RJ8Y7wq2jcTW5Y4pcz7xfQxM0YaNlbfUQztco8SeVuvfTnZvQ0o3SBcM1+7N3eTZBO70TALu2Pd9nToZ98nFy4KRS0UTB9soSS/SN1mlyEuCDaryjOJz9EqU7BEsM6kNiSb63miOAD2BmrzQcih5r2LnrVAyTsgtV1FtIJTzc+4B2rW6aQsvXvu9jiX9mfcV5hZtZJfBOx7MnlHUrL3tngD0JQvfJOwtCzeDvMbf02oNRwW2nlnbq/wgizb/muaCKBcTayHNGBNboro+4/vXWyxekfaqNPoZJolTLWcVGWO5YzWH2nmnTSFZMa9odaTmuFwxRsocd5pOL5P5UMZ/d/Atp+zrOi9Q/y/uMqK44SsGAXfx4XTbvMtsknsGHfX6+xS8qE81Z3e9fiLcistjc/wyr1FhMOxSfAdfQxh2E+Qr6B/l5Me913SAnGKiDDBNtN+S5AtXWFj/Ai]]></acast:settings>
+
+						<itunes:subtitle>Balipapan</itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:episode>23</itunes:episode>
+
+						<description><![CDATA[With Tarakan and North Borneo secured, the last great Allied attack of World War II would take place with the landings to take Balikpapan. Despite the war being almost over, the capture of Balikpapan was deemed vital and so despite disquiet among some of the Australian High Command, the invasion went forward. <br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>]]></description>
+
+						<itunes:summary><![CDATA[With Tarakan and North Borneo secured, the last great Allied attack of World War II would take place with the landings to take Balikpapan. Despite the war being almost over, the capture of Balikpapan was deemed vital and so despite disquiet among some of the Australian High Command, the invasion went forward. <br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>The Borneo Campaign Part 2</title>
+
+						<itunes:title>The Borneo Campaign Part 2</itunes:title>
+
+						<pubDate>Tue, 04 May 2021 20:00:57 GMT</pubDate>
+
+						<itunes:duration>31:35</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/5f7677641653f33cb34923b6/e/608e94eafc9d6e4b04b88689/media.mp3" length="21296154" type="audio/mpeg"/>
+					<guid isPermaLink="false">608e94eafc9d6e4b04b88689</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://shows.acast.com/5f7677641653f33cb34923b6/episodes/the-borneo-campaign-part-ii</link>
+
+						<acast:episodeId>608e94eafc9d6e4b04b88689</acast:episodeId>
+
+						<acast:episodeUrl>the-borneo-campaign-part-ii</acast:episodeUrl>
+
+						<acast:settings><![CDATA[l0iN+jMJv+xqVn8Ss3wEOzDlvqLhEpx6iZntcP634NEpr9kQyHNpwiaHrkOleI6XqQ3AUoWXSQo0c5LQsh8CRjjJ0eS9zQKGFyjiyPI63Qdl84DlKqFajy9/L4RYId5xuFOSjD9hZnAS9BwhJJw048d2gNR8IIdg48ek+BE+2mwd58EDaY/hbji5pJ75WLjWSYRQ1aGa07LBfI+nDDJb0JTcckRlAlMr/lgW7dkus/JhS72D+P/9lqMJRPH/Ix/gL8IS9niixAa12c6IRWfOKjD9lek/H803DM1fBAaCrD7+N1RLCLMSTJ5sZsTIc8nVgioDEENfoztuKKzPSp5aTzMtvmMY8WSy0xyQzD9v670Jqn37R/oQ50WKJZ0DcjVINpHptAiGC/NlaYPz6XaX1my1Q9XLlNTWp+md2nyR/6FBjK4+xIU+6fDcz6HYWLIQrJm1jipnBg9IuWg+E1I7sGbIclEodvGH/YCcW0DOXPDGc3G77qCKPndi3h4JVSaxhOofsVddxJn1n2oxOebmkA==]]></acast:settings>
+
+						<itunes:subtitle>The Fight For North Borneo</itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:episode>22</itunes:episode>
+
+					<itunes:image href="https://assets.pippa.io/shows/5f7677641653f33cb34923b6/1619956638532-8fcf780b8e911e37f82c386e4ab8e662.jpeg"/>
+						<description><![CDATA[With Tarakan secured, the second phase of the Borneo Campaign could be launched. The recapture of Brunei and North Borneo would require landings on Brunei, Labaun Island, Muara Island and North Borneo. The landings were carried out unopposed, but as Australian troops pushed forward, Japanese resistance grew, especially on Labaun Island and the enemy stronghold known as The Pocket. <br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>]]></description>
+
+						<itunes:summary><![CDATA[With Tarakan secured, the second phase of the Borneo Campaign could be launched. The recapture of Brunei and North Borneo would require landings on Brunei, Labaun Island, Muara Island and North Borneo. The landings were carried out unopposed, but as Australian troops pushed forward, Japanese resistance grew, especially on Labaun Island and the enemy stronghold known as The Pocket. <br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>Anzac Day 2021</title>
+
+						<itunes:title>Anzac Day 2021</itunes:title>
+
+						<pubDate>Fri, 23 Apr 2021 20:00:48 GMT</pubDate>
+
+						<itunes:duration>4:07</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/5f7677641653f33cb34923b6/e/60815c631297e21f6aedb7a0/media.mp3" length="2816561" type="audio/mpeg"/>
+					<guid isPermaLink="false">60815c631297e21f6aedb7a0</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://shows.acast.com/5f7677641653f33cb34923b6/episodes/anzac-day-2021</link>
+
+						<acast:episodeId>60815c631297e21f6aedb7a0</acast:episodeId>
+
+						<acast:episodeUrl>anzac-day-2021</acast:episodeUrl>
+
+						<acast:settings><![CDATA[l0iN+jMJv+xqVn8Ss3wEOzDlvqLhEpx6iZntcP634NEpr9kQyHNpwiaHrkOleI6XqQ3AUoWXSQo0c5LQsh8CRjjJ0eS9zQKGFyjiyPI63Qdl84DlKqFajy9/L4RYId5xuFOSjD9hZnAS9BwhJJw048d2gNR8IIdg48ek+BE+2mwd58EDaY/hbji5pJ75WLjWSYRQ1aGa07LBfI+nDDJb0JTcckRlAlMr/lgW7dkus/JhS72D+P/9lqMJRPH/Ix/gL8IS9niixAa12c6IRWfOKjD9lek/H803DM1fBAaCrD7+N1RLCLMSTJ5sZsTIc8nVgioDEENfoztuKKzPSp5aTzMtvmMY8WSy0xyQzD9v670Jqn37R/oQ50WKJZ0DcjVINpHptAiGC/NlaYPz6XaX1my1Q9XLlNTWp+md2nyR/6FBjK4+xIU+6fDcz6HYWLIQEHcPM4pgiaffvDQ/tvz+jEqnRwPDwi5ACIEPDqeO/vyeeN1qn7F8w7nAIk2Uc9G9q/MmUZ6x6h5yDOLYGk+5Jw==]]></acast:settings>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+					<itunes:image href="https://assets.pippa.io/shows/5f7677641653f33cb34923b6/1619090418564-f981014c822c48c413449e445b9e0203.jpeg"/>
+						<description><![CDATA[A short episode to acknowledge Anzac Day and a quick look at some of the lesser known events which have occurred on or around 25th April. <br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>]]></description>
+
+						<itunes:summary><![CDATA[A short episode to acknowledge Anzac Day and a quick look at some of the lesser known events which have occurred on or around 25th April. <br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>The Borneo Campaign Part 1</title>
+
+						<itunes:title>The Borneo Campaign Part 1</itunes:title>
+
+						<pubDate>Tue, 13 Apr 2021 20:00:42 GMT</pubDate>
+
+						<itunes:duration>28:52</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/5f7677641653f33cb34923b6/e/60743f6cc75f97174f5e0c0f/media.mp3" length="36771826" type="audio/mpeg"/>
+					<guid isPermaLink="false">60743f6cc75f97174f5e0c0f</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://shows.acast.com/5f7677641653f33cb34923b6/episodes/the-borneo-campaign-part-1</link>
+
+						<acast:episodeId>60743f6cc75f97174f5e0c0f</acast:episodeId>
+
+						<acast:episodeUrl>the-borneo-campaign-part-1</acast:episodeUrl>
+
+						<acast:settings><![CDATA[l0iN+jMJv+xqVn8Ss3wEOzDlvqLhEpx6iZntcP634NEpr9kQyHNpwiaHrkOleI6XqQ3AUoWXSQo0c5LQsh8CRjjJ0eS9zQKGFyjiyPI63Qdl84DlKqFajy9/L4RYId5xuFOSjD9hZnAS9BwhJJw048d2gNR8IIdg48ek+BE+2mwd58EDaY/hbji5pJ75WLjWSYRQ1aGa07LBfI+nDDJb0JTcckRlAlMr/lgW7dkus/JhS72D+P/9lqMJRPH/Ix/gL8IS9niixAa12c6IRWfOKjD9lek/H803DM1fBAaCrD7+N1RLCLMSTJ5sZsTIc8nVgioDEENfoztuKKzPSp5aTzMtvmMY8WSy0xyQzD9v670Jqn37R/oQ50WKJZ0DcjVINpHptAiGC/NlaYPz6XaX1my1Q9XLlNTWp+md2nyR/6FBjK4+xIU+6fDcz6HYWLIQ290m0Wj5E+TAqa9UZwiHpmKj4wpHSPyrDetr7HNQeb6wR+mONvXlfbNThWoYF2h49ckitMtwD9bgvaz0o79t3g==]]></acast:settings>
+
+						<itunes:subtitle>The Fight For Tarakan</itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:episode>21</itunes:episode>
+
+					<itunes:image href="https://assets.pippa.io/shows/5f7677641653f33cb34923b6/1618230897465-b7ea48f2eb1fad1c5edef8837017610a.jpeg"/>
+						<description><![CDATA[The campaign to take Borneo from the Japanese was the final Allied Operation in the South West Pacific. Before the landings on Borneo could take place, the island of Tarakan was to be taken so the airfields could be used to support the main landings. The fight for Tarakan developed into a prolonged slogging match against the terrain and the Japanese.<br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>]]></description>
+
+						<itunes:summary><![CDATA[The campaign to take Borneo from the Japanese was the final Allied Operation in the South West Pacific. Before the landings on Borneo could take place, the island of Tarakan was to be taken so the airfields could be used to support the main landings. The fight for Tarakan developed into a prolonged slogging match against the terrain and the Japanese.<br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>The Battle of Thermopylae</title>
+
+						<itunes:title>The Battle of Thermopylae</itunes:title>
+
+						<pubDate>Tue, 23 Mar 2021 20:00:37 GMT</pubDate>
+
+						<itunes:duration>20:47</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/5f7677641653f33cb34923b6/e/6054a671ecf939358f8d75cd/media.mp3" length="12649530" type="audio/mpeg"/>
+					<guid isPermaLink="false">6054a671ecf939358f8d75cd</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://shows.acast.com/5f7677641653f33cb34923b6/episodes/the-battle-of-thermopylae</link>
+
+						<acast:episodeId>6054a671ecf939358f8d75cd</acast:episodeId>
+
+						<acast:episodeUrl>the-battle-of-thermopylae</acast:episodeUrl>
+
+						<acast:settings><![CDATA[l0iN+jMJv+xqVn8Ss3wEOzDlvqLhEpx6iZntcP634NEpr9kQyHNpwiaHrkOleI6XqQ3AUoWXSQo0c5LQsh8CRjjJ0eS9zQKGFyjiyPI63Qdl84DlKqFajy9/L4RYId5xuFOSjD9hZnAS9BwhJJw048d2gNR8IIdg48ek+BE+2mwd58EDaY/hbji5pJ75WLjWSYRQ1aGa07LBfI+nDDJb0JTcckRlAlMr/lgW7dkus/JhS72D+P/9lqMJRPH/Ix/gL8IS9niixAa12c6IRWfOKjD9lek/H803DM1fBAaCrD7+N1RLCLMSTJ5sZsTIc8nVgioDEENfoztuKKzPSp5aTzMtvmMY8WSy0xyQzD9v670Jqn37R/oQ50WKJZ0DcjVINpHptAiGC/NlaYPz6XaX1my1Q9XLlNTWp+md2nyR/6FBjK4+xIU+6fDcz6HYWLIQSCUmD7GzCfd/LZpFu6Poj8bClrDvWEgj3jl2IaDNag9F97/1HCxLlKuZm01+t3hgQP7xQMmsW3wS56nRsnTvvQ==]]></acast:settings>
+
+						<itunes:subtitle><![CDATA[Australians and New Zealanders on Leonidas' famed ground. ]]></itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:episode>20</itunes:episode>
+
+					<itunes:image href="https://assets.pippa.io/shows/5f7677641653f33cb34923b6/1616160012211-c8bf584b23751005733983159cca72b0.jpeg"/>
+						<description><![CDATA[In 1941 German troops invaded Greece. The Allied attempt to halt the Axis advance failed and the Allies headed south for evacuation. To buy time Australian and New Zealand troops fought a rear guard action in the same area where King Leonidas and his 300 Spartans had faced the invading army of Xerxes. <br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>]]></description>
+
+						<itunes:summary><![CDATA[In 1941 German troops invaded Greece. The Allied attempt to halt the Axis advance failed and the Allies headed south for evacuation. To buy time Australian and New Zealand troops fought a rear guard action in the same area where King Leonidas and his 300 Spartans had faced the invading army of Xerxes. <br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>The Battles of Bullecourt</title>
+
+						<itunes:title>The Battles of Bullecourt</itunes:title>
+
+						<pubDate>Tue, 02 Mar 2021 20:00:34 GMT</pubDate>
+
+						<itunes:duration>24:33</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/5f7677641653f33cb34923b6/e/6036495e2c4f464eb32090f9/media.mp3" length="19329851" type="audio/mpeg"/>
+					<guid isPermaLink="false">6036495e2c4f464eb32090f9</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://shows.acast.com/5f7677641653f33cb34923b6/episodes/the-battles-of-bullecourt</link>
+
+						<acast:episodeId>6036495e2c4f464eb32090f9</acast:episodeId>
+
+						<acast:episodeUrl>the-battles-of-bullecourt</acast:episodeUrl>
+
+						<acast:settings><![CDATA[l0iN+jMJv+xqVn8Ss3wEOzDlvqLhEpx6iZntcP634NEpr9kQyHNpwiaHrkOleI6XqQ3AUoWXSQo0c5LQsh8CRjjJ0eS9zQKGFyjiyPI63Qdl84DlKqFajy9/L4RYId5xuFOSjD9hZnAS9BwhJJw048d2gNR8IIdg48ek+BE+2mwd58EDaY/hbji5pJ75WLjWSYRQ1aGa07LBfI+nDDJb0JTcckRlAlMr/lgW7dkus/JhS72D+P/9lqMJRPH/Ix/gL8IS9niixAa12c6IRWfOKjD9lek/H803DM1fBAaCrD7+N1RLCLMSTJ5sZsTIc8nVgioDEENfoztuKKzPSp5aTzMtvmMY8WSy0xyQzD9v670Jqn37R/oQ50WKJZ0DcjVINpHptAiGC/NlaYPz6XaX1my1Q9XLlNTWp+md2nyR/6FBjK4+xIU+6fDcz6HYWLIQBQzvZMc2tUBMBiHeOIyeVH7VHpccpullW8i6d0XTWLuAp/2bPhfU+HkCKuy3SiOOTQclTcdngY0+qwO0AO31Bw==]]></acast:settings>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:episode>19</itunes:episode>
+
+					<itunes:image href="https://assets.pippa.io/shows/5f7677641653f33cb34923b6/1614170156314-0a4ee297d1b386028229e4b4991c411f.jpeg"/>
+						<description><![CDATA[In 1917 as part of the Battle of Arras, Australian troops were ordered to take a section of the Hindenburg Line near the village of Bullecourt. With no supporting artillery, relying on the support of the un-tried tanks, the troops of the 2nd Division advanced into heavy enemy fire and uncut wire. Their attack failed. Two weeks later, another attempt was made and although Bullecourt was captured, the Australians suffered heavy losses. <br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>]]></description>
+
+						<itunes:summary><![CDATA[In 1917 as part of the Battle of Arras, Australian troops were ordered to take a section of the Hindenburg Line near the village of Bullecourt. With no supporting artillery, relying on the support of the un-tried tanks, the troops of the 2nd Division advanced into heavy enemy fire and uncut wire. Their attack failed. Two weeks later, another attempt was made and although Bullecourt was captured, the Australians suffered heavy losses. <br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>Z Special Unit</title>
+
+						<itunes:title>Z Special Unit</itunes:title>
+
+						<pubDate>Tue, 09 Feb 2021 20:00:34 GMT</pubDate>
+
+						<itunes:duration>23:04</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/5f7677641653f33cb34923b6/e/601bf19231245b206353be8b/media.mp3" length="18411415" type="audio/mpeg"/>
+					<guid isPermaLink="false">601bf19231245b206353be8b</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://shows.acast.com/5f7677641653f33cb34923b6/episodes/z-special-unit</link>
+
+						<acast:episodeId>601bf19231245b206353be8b</acast:episodeId>
+
+						<acast:episodeUrl>z-special-unit</acast:episodeUrl>
+
+						<acast:settings><![CDATA[l0iN+jMJv+xqVn8Ss3wEOzDlvqLhEpx6iZntcP634NEpr9kQyHNpwiaHrkOleI6XqQ3AUoWXSQo0c5LQsh8CRjjJ0eS9zQKGFyjiyPI63Qdl84DlKqFajy9/L4RYId5xuFOSjD9hZnAS9BwhJJw048d2gNR8IIdg48ek+BE+2mwd58EDaY/hbji5pJ75WLjWSYRQ1aGa07LBfI+nDDJb0JTcckRlAlMr/lgW7dkus/JhS72D+P/9lqMJRPH/Ix/gL8IS9niixAa12c6IRWfOKjD9lek/H803DM1fBAaCrD7+N1RLCLMSTJ5sZsTIc8nVgioDEENfoztuKKzPSp5aTzMtvmMY8WSy0xyQzD9v670Jqn37R/oQ50WKJZ0DcjVINpHptAiGC/NlaYPz6XaX1my1Q9XLlNTWp+md2nyR/6FBjK4+xIU+6fDcz6HYWLIQOHKtNYCiLsyyUbuOgsDKILKlpKGgR40a+vOae6Ip0T2JcOT2XP56Tu97Bz7ldwTynxXiixdsRQznSE4ZK7baUQ==]]></acast:settings>
+
+						<itunes:subtitle><![CDATA[Australia's first special forces soldiers]]></itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:episode>18</itunes:episode>
+
+					<itunes:image href="https://assets.pippa.io/shows/5f7677641653f33cb34923b6/1612443818399-c1e30da0fd8c17b1c57976b108b73461.jpeg"/>
+						<description><![CDATA[<p>With operations in the Pacific covering millions of square kilometres, a new kind of unit was needed to gather intelligence and disrupt Japanese operations. Z Special Unit was formed and from 1943 to the end of the war, the men operated behind enemy lines, paying a high price for the valuable information they provided. </p><br><p>To help me raise funds for Soldier On, please head to https://fundraise.soldieron.org.au/fundraisers/warwickoneill/marchon</p><br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>]]></description>
+
+						<itunes:summary><![CDATA[<p>With operations in the Pacific covering millions of square kilometres, a new kind of unit was needed to gather intelligence and disrupt Japanese operations. Z Special Unit was formed and from 1943 to the end of the war, the men operated behind enemy lines, paying a high price for the valuable information they provided. </p><br><p>To help me raise funds for Soldier On, please head to https://fundraise.soldieron.org.au/fundraisers/warwickoneill/marchon</p><br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>Leslie Morshead</title>
+
+						<itunes:title>Leslie Morshead</itunes:title>
+
+						<pubDate>Tue, 19 Jan 2021 20:00:42 GMT</pubDate>
+
+						<itunes:duration>28:34</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/5f7677641653f33cb34923b6/e/60039bfceedc362e24df89ca/media.mp3" length="16936141" type="audio/mpeg"/>
+					<guid isPermaLink="false">60039bfceedc362e24df89ca</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://shows.acast.com/5f7677641653f33cb34923b6/episodes/leslie-morshead</link>
+
+						<acast:episodeId>60039bfceedc362e24df89ca</acast:episodeId>
+
+						<acast:episodeUrl>leslie-morshead</acast:episodeUrl>
+
+						<acast:settings><![CDATA[l0iN+jMJv+xqVn8Ss3wEOzDlvqLhEpx6iZntcP634NEpr9kQyHNpwiaHrkOleI6XqQ3AUoWXSQo0c5LQsh8CRjjJ0eS9zQKGFyjiyPI63Qdl84DlKqFajy9/L4RYId5xuFOSjD9hZnAS9BwhJJw048d2gNR8IIdg48ek+BE+2mwd58EDaY/hbji5pJ75WLjWSYRQ1aGa07LBfI+nDDJb0JTcckRlAlMr/lgW7dkus/JhS72D+P/9lqMJRPH/Ix/gL8IS9niixAa12c6IRWfOKjD9lek/H803DM1fBAaCrD7+N1RLCLMSTJ5sZsTIc8nVgioDEENfoztuKKzPSp5aTzMtvmMY8WSy0xyQzD9v670Jqn37R/oQ50WKJZ0DcjVINpHptAiGC/NlaYPz6XaX1my1Q9XLlNTWp+md2nyR/6FBjK4+xIU+6fDcz6HYWLIQFvudCjj3Zrh3TtM07q0WYDkvTKb0pBXoXixuVwJpf5nmadf2kdG60ZPdU8kUJLboK/SfbJ0LOLZC9KPEqb1mbg==]]></acast:settings>
+
+						<itunes:subtitle>From Private to Commander</itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:episode>17</itunes:episode>
+
+					<itunes:image href="https://assets.pippa.io/shows/5f7677641653f33cb34923b6/1610848948937-9e67163f50b5a6d9934037e199fc0160.jpeg"/>
+						<description><![CDATA[Joining the Australian Imperial Force as a Private in 1914, Leslie Morshead would go on to become commander of the 33rd Battalion in World War 1. He masterminded the defence  of Tobruk in 1941 and by the time World War 2 came to a close, he was in command of 1 Corps and slated as the next commander of the 2nd AIF should anything happen to General Blamey. <br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>]]></description>
+
+						<itunes:summary><![CDATA[Joining the Australian Imperial Force as a Private in 1914, Leslie Morshead would go on to become commander of the 33rd Battalion in World War 1. He masterminded the defence  of Tobruk in 1941 and by the time World War 2 came to a close, he was in command of 1 Corps and slated as the next commander of the 2nd AIF should anything happen to General Blamey. <br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>The Malayan Emergency </title>
+
+						<itunes:title>The Malayan Emergency </itunes:title>
+
+						<pubDate>Tue, 01 Dec 2020 20:00:49 GMT</pubDate>
+
+						<itunes:duration>15:05</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/5f7677641653f33cb34923b6/e/5fc384143173645bb5c31829/media.mp3" length="11730442" type="audio/mpeg"/>
+					<guid isPermaLink="false">5fc384143173645bb5c31829</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://shows.acast.com/5f7677641653f33cb34923b6/episodes/the-malayan-emergency</link>
+
+						<acast:episodeId>5fc384143173645bb5c31829</acast:episodeId>
+
+						<acast:episodeUrl>the-malayan-emergency</acast:episodeUrl>
+
+						<acast:settings><![CDATA[l0iN+jMJv+xqVn8Ss3wEOzDlvqLhEpx6iZntcP634NEpr9kQyHNpwiaHrkOleI6XqQ3AUoWXSQo0c5LQsh8CRjjJ0eS9zQKGFyjiyPI63Qdl84DlKqFajy9/L4RYId5xuFOSjD9hZnAS9BwhJJw048d2gNR8IIdg48ek+BE+2mwd58EDaY/hbji5pJ75WLjWSYRQ1aGa07LBfI+nDDJb0JTcckRlAlMr/lgW7dkus/JhS72D+P/9lqMJRPH/Ix/gL8IS9niixAa12c6IRWfOKjD9lek/H803DM1fBAaCrD7+N1RLCLMSTJ5sZsTIc8nVgioDEENfoztuKKzPSp5aTzMtvmMY8WSy0xyQzD9v670Jqn37R/oQ50WKJZ0DcjVINpHptAiGC/NlaYPz6XaX1my1Q9XLlNTWp+md2nyR/6EHx6jw0NJqDm5taVLbl6EA35QUG9yocCzc8JOIH370hpyKqEyyCK7IJ1FPZr+nvtCs45ttdEMIE8J7F52gNUeo570rCWlwg0zNZhnVFnUn2w==]]></acast:settings>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:episode>16</itunes:episode>
+
+					<itunes:image href="https://assets.pippa.io/shows/5f7677641653f33cb34923b6/1606648510458-2fae3861aef01a551f061f6e329dfde5.jpeg"/>
+						<description><![CDATA[In 1948 communist insurgents attempted to gain control of the Malayan Peninsula from British rule. Even though World War II had only recently finished, Australian troops once again headed overseas to try to maintain peace and stability in a region rapidly descending into chaos. <br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>]]></description>
+
+						<itunes:summary><![CDATA[In 1948 communist insurgents attempted to gain control of the Malayan Peninsula from British rule. Even though World War II had only recently finished, Australian troops once again headed overseas to try to maintain peace and stability in a region rapidly descending into chaos. <br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>The Wilmansrust Affair</title>
+
+						<itunes:title>The Wilmansrust Affair</itunes:title>
+
+						<pubDate>Tue, 10 Nov 2020 20:00:55 GMT</pubDate>
+
+						<itunes:duration>18:17</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/5f7677641653f33cb34923b6/e/5fa3ffbae0d05022678d6bb8/media.mp3" length="13769816" type="audio/mpeg"/>
+					<guid isPermaLink="false">5fa3ffbae0d05022678d6bb8</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://shows.acast.com/5f7677641653f33cb34923b6/episodes/the-wilmansrust-affair</link>
+
+						<acast:episodeId>5fa3ffbae0d05022678d6bb8</acast:episodeId>
+
+						<acast:episodeUrl>the-wilmansrust-affair</acast:episodeUrl>
+
+						<acast:settings><![CDATA[l0iN+jMJv+xqVn8Ss3wEOzDlvqLhEpx6iZntcP634NEpr9kQyHNpwiaHrkOleI6XqQ3AUoWXSQo0c5LQsh8CRjjJ0eS9zQKGFyjiyPI63Qdl84DlKqFajy9/L4RYId5xuFOSjD9hZnAS9BwhJJw048d2gNR8IIdg48ek+BE+2mwd58EDaY/hbji5pJ75WLjWSYRQ1aGa07LBfI+nDDJb0JTcckRlAlMr/lgW7dkus/JhS72D+P/9lqMJRPH/Ix/gL8IS9niixAa12c6IRWfOKjD9lek/H803DM1fBAaCrD7+N1RLCLMSTJ5sZsTIc8nVgioDEENfoztuKKzPSp5aTzMtvmMY8WSy0xyQzD9v670Jqn37R/oQ50WKJZ0DcjVINpHptAiGC/NlaYPz6XaX1my1Q9XLlNTWp+md2nyR/6EHx6jw0NJqDm5taVLbl6EAkJnI+LgbUyJ3DiM7kq3r5VWXi0csSQGbdSSitR0TN1d7kj8u6dglQYU36IROyCNNbVrdxMEbH/ufYYjtohek0w==]]></acast:settings>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>15</itunes:episode>
+
+					<itunes:image href="https://assets.pippa.io/shows/5f7677641653f33cb34923b6/1604583040259-ec2949572070f30a9514e7301801ad66.jpeg"/>
+						<description><![CDATA[<p>In 1901, while operating in the Transvaal region of South Africa, the 5th Victorian Mounted Rifles were attacked by a Boer Commando, setting off a series of incidents which would have ramifications for the Disciplinary provision of the Australian Defence Act.</p><br><p>Also, please follow this link to the Timor Awakening podcast interview with Paul Miller:</p><br><p>https://www.timorawakening.com/podcast/episode/ec2c50e5/dusty-miller_on-workaholism-suicide-losing-loves-ones-and-finding-your-shield </p><br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>]]></description>
+
+						<itunes:summary><![CDATA[<p>In 1901, while operating in the Transvaal region of South Africa, the 5th Victorian Mounted Rifles were attacked by a Boer Commando, setting off a series of incidents which would have ramifications for the Disciplinary provision of the Australian Defence Act.</p><br><p>Also, please follow this link to the Timor Awakening podcast interview with Paul Miller:</p><br><p>https://www.timorawakening.com/podcast/episode/ec2c50e5/dusty-miller_on-workaholism-suicide-losing-loves-ones-and-finding-your-shield </p><br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>39th Militia Battalion at Kokoda</title>
+
+						<itunes:title>39th Militia Battalion at Kokoda</itunes:title>
+
+						<pubDate>Tue, 20 Oct 2020 20:30:00 GMT</pubDate>
+
+						<itunes:duration>22:20</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/5f7677641653f33cb34923b6/e/5f8abfd91ded403938bf3b31/media.mp3" length="18115020" type="audio/mpeg"/>
+					<guid isPermaLink="false">5f8abfd91ded403938bf3b31</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://shows.acast.com/5f7677641653f33cb34923b6/episodes/39th-militia-battalion-at-kokoda</link>
+
+						<acast:episodeId>5f8abfd91ded403938bf3b31</acast:episodeId>
+
+						<acast:episodeUrl>39th-militia-battalion-at-kokoda</acast:episodeUrl>
+
+						<acast:settings><![CDATA[l0iN+jMJv+xqVn8Ss3wEOzDlvqLhEpx6iZntcP634NEpr9kQyHNpwiaHrkOleI6XqQ3AUoWXSQo0c5LQsh8CRjjJ0eS9zQKGFyjiyPI63Qdl84DlKqFajy9/L4RYId5xuFOSjD9hZnAS9BwhJJw048d2gNR8IIdg48ek+BE+2mwd58EDaY/hbji5pJ75WLjWSYRQ1aGa07LBfI+nDDJb0JTcckRlAlMr/lgW7dkus/JhS72D+P/9lqMJRPH/Ix/gL8IS9niixAa12c6IRWfOKjD9lek/H803DM1fBAaCrD7+N1RLCLMSTJ5sZsTIc8nVgioDEENfoztuKKzPSp5aTzMtvmMY8WSy0xyQzD9v670Jqn37R/oQ50WKJZ0DcjVINpHptAiGC/NlaYPz6XaX1my1Q9XLlNTWp+md2nyR/6EHx6jw0NJqDm5taVLbl6EA7RblprgVNMPUijH3czKHbaGFY2NhuGE4kfztFeRS6UE5hueVQoU5jf1K3wGgrVw2FwXEuI168OoMudXHF8svWw==]]></acast:settings>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>14</itunes:episode>
+
+					<itunes:image href="https://assets.pippa.io/shows/5f7677641653f33cb34923b6/1602928570020-f589a6dd55d61dcdd64876941f3866c4.jpeg"/>
+						<description><![CDATA[With the 2nd AIF still returning from North Africa, the defence of Papua fell to the young men of the 39th Militia Battalion. Undertrained, with obsolete weapons they were to face the onslaught of the seemingly unstoppable Japanese Army.  <br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>]]></description>
+
+						<itunes:summary><![CDATA[With the 2nd AIF still returning from North Africa, the defence of Papua fell to the young men of the 39th Militia Battalion. Undertrained, with obsolete weapons they were to face the onslaught of the seemingly unstoppable Japanese Army.  <br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>Les Clisby and the Battle of France</title>
+
+						<itunes:title>Les Clisby and the Battle of France</itunes:title>
+
+						<pubDate>Wed, 30 Sep 2020 00:10:00 GMT</pubDate>
+
+						<itunes:duration>18:03</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/5f7677641653f33cb34923b6/e/97d8cbd0-0d47-4e6c-baad-d97261c5579b/media.mp3" length="17336293" type="audio/mpeg"/>
+					<guid isPermaLink="false">97d8cbd0-0d47-4e6c-baad-d97261c5579b</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://shows.acast.com/5f7677641653f33cb34923b6/episodes/5f76776e84d7396628462409</link>
+
+						<acast:episodeId>5f76776e84d7396628462409</acast:episodeId>
+
+						<acast:settings><![CDATA[l0iN+jMJv+xqVn8Ss3wEOzDlvqLhEpx6iZntcP634NEpr9kQyHNpwiaHrkOleI6X0XZG2B5kHEmqhQRSu/ePosszW11aaMxr0H74gHv1MfS2Ykdo7sDWa5BrBU5ba9efiJoPLazxMsmQJW6DPxqZCmxV/+R3KeiYhE0Yn26IdCccvFHMJEYsWYCEZif/KE9had7akUdIKsu68tLAHf0/IExmdfVHTLpWU7I6/nxVwhPXZKHCYRBfjCJdUFqwkN78xwwu5d/Jl2lfUN1usMjvZVKVCZovKsJk1JecrFjgxbvpU4M46d5Mf3C6Ry445szZSIu1KaXjlVnjn1qr89ZHF0VTWC/+WbHQfpRF0LsbW2UbGRIqmYCIDUV0eU++Nhx5s2HOezJCf5feuPGgHN2YyLSEwCbDimXZEj5yAQHehdd16QD5hA6/rjsq0fdM4dk5icpoOB44jcarXFEcNr9LDWb7gQkj4gebLPyqX7BkeAlyth3QnQsX2A86rL+mD35Ekn3HGU8hNcNE3FNlMXiZAcp3IKHFUUUsaUG5Lf6chQvMIhOG+33/RqX5E168F3bq]]></acast:settings>
+
+						<itunes:subtitle>At the beginning of World War II, many Australians were serving in RAF squadrons and were thrown into the fight against Germany. Les Cl...</itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>13</itunes:episode>
+
+						<description><![CDATA[At the beginning of World War II, many Australians were serving in RAF squadrons and were thrown into the fight against Germany. Les Clisby was one of these men and created a name for himself in the short time he fought the Luftwaffe.<br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>]]></description>
+
+						<itunes:summary><![CDATA[At the beginning of World War II, many Australians were serving in RAF squadrons and were thrown into the fight against Germany. Les Clisby was one of these men and created a name for himself in the short time he fought the Luftwaffe.<br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title><![CDATA[John 'Barney' Hines]]></title>
+
+						<itunes:title><![CDATA[John 'Barney' Hines]]></itunes:title>
+
+						<pubDate>Wed, 09 Sep 2020 07:00:00 GMT</pubDate>
+
+						<itunes:duration>10:43</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/5f7677641653f33cb34923b6/e/8f919785-6399-452a-bcc8-895bbae4510e/media.mp3" length="10288666" type="audio/mpeg"/>
+					<guid isPermaLink="false">8f919785-6399-452a-bcc8-895bbae4510e</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://shows.acast.com/5f7677641653f33cb34923b6/episodes/5f76776e84d739662846240a</link>
+
+						<acast:episodeId>5f76776e84d739662846240a</acast:episodeId>
+
+						<acast:settings><![CDATA[l0iN+jMJv+xqVn8Ss3wEOzDlvqLhEpx6iZntcP634NEpr9kQyHNpwiaHrkOleI6X0XZG2B5kHEmqhQRSu/ePosszW11aaMxr0H74gHv1MfS2Ykdo7sDWa5BrBU5ba9efiJoPLazxMsmQJW6DPxqZCmxV/+R3KeiYhE0Yn26IdCccvFHMJEYsWYCEZif/KE9had7akUdIKsu68tLAHf0/IExmdfVHTLpWU7I6/nxVwhPXZKHCYRBfjCJdUFqwkN78xwwu5d/Jl2lfUN1usMjvZVKVCZovKsJk1JecrFjgxbvpU4M46d5Mf3C6Ry445szZSIu1KaXjlVnjn1qr89ZHF0VTWC/+WbHQfpRF0LsbW2UbGRIqmYCIDUV0eU++Nhx5s2HOezJCf5feuPGgHN2YyLSEwCbDimXZEj5yAQHehdd16QD5hA6/rjsq0fdM4dk5icpoOB44jcarXFEcNr9LDWb7gQkj4gebLPyqX7BkeAlyth3QnQsX2A86rL+mD35Ekn3HGU8hNcNE3FNlMXiZAZvSPdnQa9YfEYnygkCFqhaUhIslZ46GzptgTWy4T7of]]></acast:settings>
+
+						<itunes:subtitle><![CDATA[Australia's souvenir king of World War 1. ...]]></itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>12</itunes:episode>
+
+						<description><![CDATA[Australia's souvenir king of World War 1.<br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>]]></description>
+
+						<itunes:summary><![CDATA[Australia's souvenir king of World War 1.<br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>Special Episode 1</title>
+
+						<itunes:title>Special Episode 1</itunes:title>
+
+						<pubDate>Mon, 31 Aug 2020 11:37:00 GMT</pubDate>
+
+						<itunes:duration>6:59</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/5f7677641653f33cb34923b6/e/de373cc5-d8e4-468d-941f-2b9ad04b17ab/media.mp3" length="6708403" type="audio/mpeg"/>
+					<guid isPermaLink="false">de373cc5-d8e4-468d-941f-2b9ad04b17ab</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://shows.acast.com/5f7677641653f33cb34923b6/episodes/5f76776e84d739662846240b</link>
+
+						<acast:episodeId>5f76776e84d739662846240b</acast:episodeId>
+
+						<acast:settings><![CDATA[l0iN+jMJv+xqVn8Ss3wEOzDlvqLhEpx6iZntcP634NEpr9kQyHNpwiaHrkOleI6X0XZG2B5kHEmqhQRSu/ePosszW11aaMxr0H74gHv1MfS2Ykdo7sDWa5BrBU5ba9efiJoPLazxMsmQJW6DPxqZCmxV/+R3KeiYhE0Yn26IdCccvFHMJEYsWYCEZif/KE9had7akUdIKsu68tLAHf0/IExmdfVHTLpWU7I6/nxVwhPXZKHCYRBfjCJdUFqwkN78xwwu5d/Jl2lfUN1usMjvZVKVCZovKsJk1JecrFjgxbvpU4M46d5Mf3C6Ry445szZSIu1KaXjlVnjn1qr89ZHF0VTWC/+WbHQfpRF0LsbW2UbGRIqmYCIDUV0eU++Nhx5s2HOezJCf5feuPGgHN2YyLSEwCbDimXZEj5yAQHehdd16QD5hA6/rjsq0fdM4dk5icpoOB44jcarXFEcNr9LDWb7gQkj4gebLPyqX7BkeAlyth3QnQsX2A86rL+mD35Ekn3HGU8hNcNE3FNlMXiZAUanTWcDTW3g4JrSe8SqRyZ+s46srfN1xFDSm6zoQJwU]]></acast:settings>
+
+						<itunes:subtitle>Just a couple of things from my recent trip around Queensland. ...</itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>11</itunes:episode>
+
+						<description><![CDATA[Just a couple of things from my recent trip around Queensland.<br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>]]></description>
+
+						<itunes:summary><![CDATA[Just a couple of things from my recent trip around Queensland.<br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>Cowra Breakout</title>
+
+						<itunes:title>Cowra Breakout</itunes:title>
+
+						<pubDate>Wed, 19 Aug 2020 07:00:00 GMT</pubDate>
+
+						<itunes:duration>14:21</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/5f7677641653f33cb34923b6/e/acaea18d-4708-4394-87e4-4fc5ddd7f10a/media.mp3" length="13779876" type="audio/mpeg"/>
+					<guid isPermaLink="false">acaea18d-4708-4394-87e4-4fc5ddd7f10a</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://shows.acast.com/5f7677641653f33cb34923b6/episodes/5f76776e84d739662846240c</link>
+
+						<acast:episodeId>5f76776e84d739662846240c</acast:episodeId>
+
+						<acast:settings><![CDATA[l0iN+jMJv+xqVn8Ss3wEOzDlvqLhEpx6iZntcP634NEpr9kQyHNpwiaHrkOleI6X0XZG2B5kHEmqhQRSu/ePosszW11aaMxr0H74gHv1MfS2Ykdo7sDWa5BrBU5ba9efiJoPLazxMsmQJW6DPxqZCmxV/+R3KeiYhE0Yn26IdCccvFHMJEYsWYCEZif/KE9had7akUdIKsu68tLAHf0/IExmdfVHTLpWU7I6/nxVwhPXZKHCYRBfjCJdUFqwkN78xwwu5d/Jl2lfUN1usMjvZVKVCZovKsJk1JecrFjgxbvpU4M46d5Mf3C6Ry445szZSIu1KaXjlVnjn1qr89ZHF0VTWC/+WbHQfpRF0LsbW2UbGRIqmYCIDUV0eU++Nhx5s2HOezJCf5feuPGgHN2YyLSEwCbDimXZEj5yAQHehdd16QD5hA6/rjsq0fdM4dk5icpoOB44jcarXFEcNr9LDWb7gQkj4gebLPyqX7BkeAlyth3QnQsX2A86rL+mD35Ekn3HGU8hNcNE3FNlMXiZAW0rWyx8CMDnq2xqjbHW7+aOWQPcNhba5DOQ3hRJrQi6]]></acast:settings>
+
+						<itunes:subtitle>In August 1944, up to nine hundred Japanese Prisoners of War staged a breakout from the POW camp outside the small New South Wales town...</itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>10</itunes:episode>
+
+						<description><![CDATA[In August 1944, up to nine hundred Japanese Prisoners of War staged a breakout from the POW camp outside the small New South Wales town of Cowra.<br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>]]></description>
+
+						<itunes:summary><![CDATA[In August 1944, up to nine hundred Japanese Prisoners of War staged a breakout from the POW camp outside the small New South Wales town of Cowra.<br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>Peacekeepers</title>
+
+						<itunes:title>Peacekeepers</itunes:title>
+
+						<pubDate>Wed, 29 Jul 2020 07:00:00 GMT</pubDate>
+
+						<itunes:duration>25:12</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/5f7677641653f33cb34923b6/e/2acebbb4-7d2b-4c1d-b24e-a15d02a7ebf9/media.mp3" length="24187475" type="audio/mpeg"/>
+					<guid isPermaLink="false">2acebbb4-7d2b-4c1d-b24e-a15d02a7ebf9</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://shows.acast.com/5f7677641653f33cb34923b6/episodes/5f76776e84d739662846240d</link>
+
+						<acast:episodeId>5f76776e84d739662846240d</acast:episodeId>
+
+						<acast:settings><![CDATA[l0iN+jMJv+xqVn8Ss3wEOzDlvqLhEpx6iZntcP634NEpr9kQyHNpwiaHrkOleI6X0XZG2B5kHEmqhQRSu/ePosszW11aaMxr0H74gHv1MfS2Ykdo7sDWa5BrBU5ba9efiJoPLazxMsmQJW6DPxqZCmxV/+R3KeiYhE0Yn26IdCccvFHMJEYsWYCEZif/KE9had7akUdIKsu68tLAHf0/IExmdfVHTLpWU7I6/nxVwhPXZKHCYRBfjCJdUFqwkN78xwwu5d/Jl2lfUN1usMjvZVKVCZovKsJk1JecrFjgxbvpU4M46d5Mf3C6Ry445szZSIu1KaXjlVnjn1qr89ZHF0VTWC/+WbHQfpRF0LsbW2UbGRIqmYCIDUV0eU++Nhx5s2HOezJCf5feuPGgHN2YyLSEwCbDimXZEj5yAQHehdd16QD5hA6/rjsq0fdM4dk5icpoOB44jcarXFEcNr9LDWb7gQkj4gebLPyqX7BkeAlyth3QnQsX2A86rL+mD35Ekn3HGU8hNcNE3FNlMXiZAWTjYGmXNzYEDjDnfWtHPxE/ia247dVxOVKUj/p4NtKi]]></acast:settings>
+
+						<itunes:subtitle><![CDATA[Since 1947, Australians have been involved in peacekeeping operations throughout the world's hot spots. They have conducted themselves ...]]></itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>9</itunes:episode>
+
+						<description><![CDATA[Since 1947, Australians have been involved in peacekeeping operations throughout the world's hot spots. They have conducted themselves with the same professionalism as in combat roles, witnessing some horrific events in the pursuit of peace.<br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>]]></description>
+
+						<itunes:summary><![CDATA[Since 1947, Australians have been involved in peacekeeping operations throughout the world's hot spots. They have conducted themselves with the same professionalism as in combat roles, witnessing some horrific events in the pursuit of peace.<br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>Aussies in Bomber Command</title>
+
+						<itunes:title>Aussies in Bomber Command</itunes:title>
+
+						<pubDate>Wed, 08 Jul 2020 07:00:00 GMT</pubDate>
+
+						<itunes:duration>34:57</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/5f7677641653f33cb34923b6/e/84df9e4d-303f-4510-ac46-e2d8493675ea/media.mp3" length="33557291" type="audio/mpeg"/>
+					<guid isPermaLink="false">84df9e4d-303f-4510-ac46-e2d8493675ea</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://shows.acast.com/5f7677641653f33cb34923b6/episodes/5f76776e84d739662846240e</link>
+
+						<acast:episodeId>5f76776e84d739662846240e</acast:episodeId>
+
+						<acast:settings><![CDATA[l0iN+jMJv+xqVn8Ss3wEOzDlvqLhEpx6iZntcP634NEpr9kQyHNpwiaHrkOleI6X0XZG2B5kHEmqhQRSu/ePosszW11aaMxr0H74gHv1MfS2Ykdo7sDWa5BrBU5ba9efiJoPLazxMsmQJW6DPxqZCmxV/+R3KeiYhE0Yn26IdCccvFHMJEYsWYCEZif/KE9had7akUdIKsu68tLAHf0/IExmdfVHTLpWU7I6/nxVwhPXZKHCYRBfjCJdUFqwkN78xwwu5d/Jl2lfUN1usMjvZVKVCZovKsJk1JecrFjgxbvpU4M46d5Mf3C6Ry445szZSIu1KaXjlVnjn1qr89ZHF0VTWC/+WbHQfpRF0LsbW2UbGRIqmYCIDUV0eU++Nhx5s2HOezJCf5feuPGgHN2YyLSEwCbDimXZEj5yAQHehdd16QD5hA6/rjsq0fdM4dk5icpoOB44jcarXFEcNr9LDWb7gQkj4gebLPyqX7BkeAlyth3QnQsX2A86rL+mD35Ekn3HGU8hNcNE3FNlMXiZAdrjTIMPw2pNR634WCrERZ1qsN38kmXhBr1+5PxDuRR0]]></acast:settings>
+
+						<itunes:subtitle>Throughout World War II many Australians flew with Bomber Command either within English Squadrons or in the newly formed Royal Australi...</itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>8</itunes:episode>
+
+						<description><![CDATA[Throughout World War II many Australians flew with Bomber Command either within English Squadrons or in the newly formed Royal Australian Air Force. They took part in many of the important raids including the Dam Busters, Berlin, Nuremburg and D-Day.<br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>]]></description>
+
+						<itunes:summary><![CDATA[Throughout World War II many Australians flew with Bomber Command either within English Squadrons or in the newly formed Royal Australian Air Force. They took part in many of the important raids including the Dam Busters, Berlin, Nuremburg and D-Day.<br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>The Scrap Iron Flotilla</title>
+
+						<itunes:title>The Scrap Iron Flotilla</itunes:title>
+
+						<pubDate>Wed, 17 Jun 2020 07:00:00 GMT</pubDate>
+
+						<itunes:duration>27:07</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/5f7677641653f33cb34923b6/e/184e4089-0208-48e6-81e6-0a4e63671901/media.mp3" length="26035280" type="audio/mpeg"/>
+					<guid isPermaLink="false">184e4089-0208-48e6-81e6-0a4e63671901</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://shows.acast.com/5f7677641653f33cb34923b6/episodes/5f76776e84d739662846240f</link>
+
+						<acast:episodeId>5f76776e84d739662846240f</acast:episodeId>
+
+						<acast:settings><![CDATA[l0iN+jMJv+xqVn8Ss3wEOzDlvqLhEpx6iZntcP634NEpr9kQyHNpwiaHrkOleI6X0XZG2B5kHEmqhQRSu/ePosszW11aaMxr0H74gHv1MfS2Ykdo7sDWa5BrBU5ba9efiJoPLazxMsmQJW6DPxqZCmxV/+R3KeiYhE0Yn26IdCccvFHMJEYsWYCEZif/KE9had7akUdIKsu68tLAHf0/IExmdfVHTLpWU7I6/nxVwhPXZKHCYRBfjCJdUFqwkN78xwwu5d/Jl2lfUN1usMjvZVKVCZovKsJk1JecrFjgxbvpU4M46d5Mf3C6Ry445szZSIu1KaXjlVnjn1qr89ZHF0VTWC/+WbHQfpRF0LsbW2UbGRIqmYCIDUV0eU++Nhx5s2HOezJCf5feuPGgHN2YyLSEwCbDimXZEj5yAQHehdd16QD5hA6/rjsq0fdM4dk5icpoOB44jcarXFEcNr9LDWb7gQkj4gebLPyqX7BkeAlyth3QnQsX2A86rL+mD35Ekn3HGU8hNcNE3FNlMXiZAZYE+jiaJi8XiTXg6jG9X5Co8tTUCiUlNrxrGz1tJEmG]]></acast:settings>
+
+						<itunes:subtitle>In World War II, five outdated British warships were given to the Royal Australian Navy. German propaganda named these ships the Scrap ...</itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>7</itunes:episode>
+
+						<description><![CDATA[In World War II, five outdated British warships were given to the Royal Australian Navy. German propaganda named these ships the Scrap Iron Flotilla, but they would prove their worth throughout operations in the Mediterranean and the Pacific.<br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>]]></description>
+
+						<itunes:summary><![CDATA[In World War II, five outdated British warships were given to the Royal Australian Navy. German propaganda named these ships the Scrap Iron Flotilla, but they would prove their worth throughout operations in the Mediterranean and the Pacific.<br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>Nurses Part 1</title>
+
+						<itunes:title>Nurses Part 1</itunes:title>
+
+						<pubDate>Wed, 27 May 2020 07:00:00 GMT</pubDate>
+
+						<itunes:duration>17:57</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/5f7677641653f33cb34923b6/e/3d7fdac5-846c-4eea-9329-698ec3507eee/media.mp3" length="17240155" type="audio/mpeg"/>
+					<guid isPermaLink="false">3d7fdac5-846c-4eea-9329-698ec3507eee</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://shows.acast.com/5f7677641653f33cb34923b6/episodes/5f76776e84d7396628462410</link>
+
+						<acast:episodeId>5f76776e84d7396628462410</acast:episodeId>
+
+						<acast:settings><![CDATA[l0iN+jMJv+xqVn8Ss3wEOzDlvqLhEpx6iZntcP634NEpr9kQyHNpwiaHrkOleI6X0XZG2B5kHEmqhQRSu/ePosszW11aaMxr0H74gHv1MfS2Ykdo7sDWa5BrBU5ba9efiJoPLazxMsmQJW6DPxqZCmxV/+R3KeiYhE0Yn26IdCccvFHMJEYsWYCEZif/KE9had7akUdIKsu68tLAHf0/IExmdfVHTLpWU7I6/nxVwhPXZKHCYRBfjCJdUFqwkN78xwwu5d/Jl2lfUN1usMjvZVKVCZovKsJk1JecrFjgxbvpU4M46d5Mf3C6Ry445szZSIu1KaXjlVnjn1qr89ZHF0VTWC/+WbHQfpRF0LsbW2UbGRIqmYCIDUV0eU++Nhx5s2HOezJCf5feuPGgHN2YyLSEwCbDimXZEj5yAQHehdd16QD5hA6/rjsq0fdM4dk5icpoOB44jcarXFEcNr9LDWb7gQkj4gebLPyqX7BkeAlyth3QnQsX2A86rL+mD35Ekn3HGU8hNcNE3FNlMXiZARAXWpI0h8WfSxpTeLis108vD7UKgd/eR2CvRC+EAety]]></acast:settings>
+
+						<itunes:subtitle>As Australian soldiers headed to the Boer War and World War 1, a dedicated group of women followed them. Many soldiers owed their lives...</itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>6</itunes:episode>
+
+						<description><![CDATA[As Australian soldiers headed to the Boer War and World War 1, a dedicated group of women followed them. Many soldiers owed their lives to the brave women of the Australian Army Nursing Corps.<br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>]]></description>
+
+						<itunes:summary><![CDATA[As Australian soldiers headed to the Boer War and World War 1, a dedicated group of women followed them. Many soldiers owed their lives to the brave women of the Australian Army Nursing Corps.<br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>The Battle of Magdhaba</title>
+
+						<itunes:title>The Battle of Magdhaba</itunes:title>
+
+						<pubDate>Wed, 06 May 2020 07:00:00 GMT</pubDate>
+
+						<itunes:duration>13:31</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/5f7677641653f33cb34923b6/e/c7da9e13-4573-4a8e-b526-3a7be7727fba/media.mp3" length="12970297" type="audio/mpeg"/>
+					<guid isPermaLink="false">c7da9e13-4573-4a8e-b526-3a7be7727fba</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://shows.acast.com/5f7677641653f33cb34923b6/episodes/5f76776e84d7396628462411</link>
+
+						<acast:episodeId>5f76776e84d7396628462411</acast:episodeId>
+
+						<acast:settings><![CDATA[l0iN+jMJv+xqVn8Ss3wEOzDlvqLhEpx6iZntcP634NEpr9kQyHNpwiaHrkOleI6X0XZG2B5kHEmqhQRSu/ePosszW11aaMxr0H74gHv1MfS2Ykdo7sDWa5BrBU5ba9efiJoPLazxMsmQJW6DPxqZCmxV/+R3KeiYhE0Yn26IdCccvFHMJEYsWYCEZif/KE9had7akUdIKsu68tLAHf0/IExmdfVHTLpWU7I6/nxVwhPXZKHCYRBfjCJdUFqwkN78xwwu5d/Jl2lfUN1usMjvZVKVCZovKsJk1JecrFjgxbvpU4M46d5Mf3C6Ry445szZSIu1KaXjlVnjn1qr89ZHF0VTWC/+WbHQfpRF0LsbW2UbGRIqmYCIDUV0eU++Nhx5s2HOezJCf5feuPGgHN2YyLSEwCbDimXZEj5yAQHehdd16QD5hA6/rjsq0fdM4dk5icpoOB44jcarXFEcNr9LDWb7gQkj4gebLPyqX7BkeAlyth3QnQsX2A86rL+mD35Ekn3HGU8hNcNE3FNlMXiZAa/AiNTsqGCVwDx86aXdlBxlSZ1da9TtlI+7ofIyec9S]]></acast:settings>
+
+						<itunes:subtitle>By 23 December 1916, the Desert Column under the command of Harry Chauvel had captured the town of El Arish and was driving across the ...</itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>4</itunes:episode>
+
+						<description><![CDATA[By 23 December 1916, the Desert Column under the command of Harry Chauvel had captured the town of El Arish and was driving across the Sinai in pursuit of the Turkish Army. In their way was the village of Magdhaba with a large Turkish force entrenched in a number of redoubts. Twenty three miles from their only supply of water, the village had to be captured in one day, or the Column would face disaster.<br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>]]></description>
+
+						<itunes:summary><![CDATA[By 23 December 1916, the Desert Column under the command of Harry Chauvel had captured the town of El Arish and was driving across the Sinai in pursuit of the Turkish Army. In their way was the village of Magdhaba with a large Turkish force entrenched in a number of redoubts. Twenty three miles from their only supply of water, the village had to be captured in one day, or the Column would face disaster.<br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>Anzac Day 2020</title>
+
+						<itunes:title>Anzac Day 2020</itunes:title>
+
+						<pubDate>Wed, 22 Apr 2020 22:00:00 GMT</pubDate>
+
+						<itunes:duration>2:23</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/5f7677641653f33cb34923b6/e/1f7af50e-136e-4495-8f03-1a423435b80f/media.mp3" length="2288088" type="audio/mpeg"/>
+					<guid isPermaLink="false">1f7af50e-136e-4495-8f03-1a423435b80f</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://shows.acast.com/5f7677641653f33cb34923b6/episodes/5f76776e84d7396628462412</link>
+
+						<acast:episodeId>5f76776e84d7396628462412</acast:episodeId>
+
+						<acast:settings><![CDATA[l0iN+jMJv+xqVn8Ss3wEOzDlvqLhEpx6iZntcP634NEpr9kQyHNpwiaHrkOleI6X0XZG2B5kHEmqhQRSu/ePosszW11aaMxr0H74gHv1MfS2Ykdo7sDWa5BrBU5ba9efiJoPLazxMsmQJW6DPxqZCmxV/+R3KeiYhE0Yn26IdCccvFHMJEYsWYCEZif/KE9had7akUdIKsu68tLAHf0/IExmdfVHTLpWU7I6/nxVwhPXZKHCYRBfjCJdUFqwkN78xwwu5d/Jl2lfUN1usMjvZVKVCZovKsJk1JecrFjgxbvpU4M46d5Mf3C6Ry445szZSIu1KaXjlVnjn1qr89ZHF0VTWC/+WbHQfpRF0LsbW2UbGRIqmYCIDUV0eU++Nhx5s2HOezJCf5feuPGgHN2YyLSEwCbDimXZEj5yAQHehdd16QD5hA6/rjsq0fdM4dk5icpoOB44jcarXFEcNr9LDWb7gQkj4gebLPyqX7BkeAlyth3QnQsX2A86rL+mD35Ekn3HGU8hNcNE3FNlMXiZAVFzFoqsKGfOQk8esrtsI96koWw6WNVqt2fsq2q0EhNI]]></acast:settings>
+
+						<itunes:subtitle><![CDATA[It's going to be a different Anzac Day this year, but as always our thoughts will be with all service personnel, past and present, as w...]]></itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>5</itunes:episode>
+
+						<description><![CDATA[It's going to be a different Anzac Day this year, but as always our thoughts will be with all service personnel, past and present, as we commemorate this important day.<br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>]]></description>
+
+						<itunes:summary><![CDATA[It's going to be a different Anzac Day this year, but as always our thoughts will be with all service personnel, past and present, as we commemorate this important day.<br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>Battle of Bin Bah</title>
+
+						<itunes:title>Battle of Bin Bah</itunes:title>
+
+						<pubDate>Wed, 15 Apr 2020 07:00:00 GMT</pubDate>
+
+						<itunes:duration>13:44</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/5f7677641653f33cb34923b6/e/98abce2b-424e-4bab-b241-deb369fa8dbc/media.mp3" length="13180097" type="audio/mpeg"/>
+					<guid isPermaLink="false">98abce2b-424e-4bab-b241-deb369fa8dbc</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://shows.acast.com/5f7677641653f33cb34923b6/episodes/5f76776e84d7396628462413</link>
+
+						<acast:episodeId>5f76776e84d7396628462413</acast:episodeId>
+
+						<acast:settings><![CDATA[l0iN+jMJv+xqVn8Ss3wEOx7FpoSe5yFWJqC2B3dzxmYGv2Z0+yc9DByZqpuvl+D/sx4p8fyHs1x6gA/4jTrlfEL+TxinCbgpNQIVpXEmiA+4JQ71Y5OEaB9NxqswHN2OQq9ZpEHWwLx4/Lwqn9LqKi+tLy3hMmKi7mu2wbf9gJg=]]></acast:settings>
+
+						<itunes:subtitle>In 1969 North Vietnamese and Viet Cong forces infiltrated the village of Bin Bah, approximately ten miles north of the Australian Task ...</itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>3</itunes:episode>
+
+						<description><![CDATA[In 1969 North Vietnamese and Viet Cong forces infiltrated the village of Bin Bah, approximately ten miles north of the Australian Task Force Base at Nui Dat. 5th Battalion of the Royal Australian Regiment was sent to deny them.<br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>]]></description>
+
+						<itunes:summary><![CDATA[In 1969 North Vietnamese and Viet Cong forces infiltrated the village of Bin Bah, approximately ten miles north of the Australian Task Force Base at Nui Dat. 5th Battalion of the Royal Australian Regiment was sent to deny them.<br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>General Sir Brudenell White</title>
+
+						<itunes:title>General Sir Brudenell White</itunes:title>
+
+						<pubDate>Wed, 25 Mar 2020 07:01:00 GMT</pubDate>
+
+						<itunes:duration>28:01</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/5f7677641653f33cb34923b6/e/7d84ff9a-2ab3-4210-b781-768369c74560/media.mp3" length="26891274" type="audio/mpeg"/>
+					<guid isPermaLink="false">7d84ff9a-2ab3-4210-b781-768369c74560</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://shows.acast.com/5f7677641653f33cb34923b6/episodes/5f76776e84d7396628462414</link>
+
+						<acast:episodeId>5f76776e84d7396628462414</acast:episodeId>
+
+						<acast:settings><![CDATA[l0iN+jMJv+xqVn8Ss3wEOx7FpoSe5yFWJqC2B3dzxmYGv2Z0+yc9DByZqpuvl+D/sx4p8fyHs1x6gA/4jTrlfEL+TxinCbgpNQIVpXEmiA+4JQ71Y5OEaB9NxqswHN2OQq9ZpEHWwLx4/Lwqn9LqKq/Zrvro5Pg9PFR/DrBkVQo=]]></acast:settings>
+
+						<itunes:subtitle><![CDATA[General White was one of the unsung heroes of Australia's involvement in World War 1. He was largely responsible for the raising of the...]]></itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>2</itunes:episode>
+
+						<description><![CDATA[General White was one of the unsung heroes of Australia's involvement in World War 1. He was largely responsible for the raising of the first A.I.F, the Gallipoli Evacuation and the administrative function of the Australian Divisions on the Western Front.<br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>]]></description>
+
+						<itunes:summary><![CDATA[General White was one of the unsung heroes of Australia's involvement in World War 1. He was largely responsible for the raising of the first A.I.F, the Gallipoli Evacuation and the administrative function of the Australian Divisions on the Western Front.<br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>]]></itunes:summary>
+
+</item>
+
+				<item>
+						<title>Introduction to the Australian Military History Podcast</title>
+
+						<itunes:title>Introduction to the Australian Military History Podcast</itunes:title>
+
+						<pubDate>Wed, 25 Mar 2020 07:00:00 GMT</pubDate>
+
+						<itunes:duration>4:08</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/5f7677641653f33cb34923b6/e/cc4fb53d-039b-4604-81f3-9691873d06a8/media.mp3" length="3964094" type="audio/mpeg"/>
+					<guid isPermaLink="false">cc4fb53d-039b-4604-81f3-9691873d06a8</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://shows.acast.com/5f7677641653f33cb34923b6/episodes/5f76776e84d7396628462415</link>
+
+						<acast:episodeId>5f76776e84d7396628462415</acast:episodeId>
+
+						<acast:settings><![CDATA[l0iN+jMJv+xqVn8Ss3wEOx7FpoSe5yFWJqC2B3dzxmYGv2Z0+yc9DByZqpuvl+D/sx4p8fyHs1x6gA/4jTrlfEL+TxinCbgpNQIVpXEmiA+4JQ71Y5OEaB9NxqswHN2OQq9ZpEHWwLx4/Lwqn9LqKnaYRTcSwsdRpRWfhRxc1Iw=]]></acast:settings>
+
+						<itunes:subtitle>This is a quick introduction to cover what I am hoping to achieve with this podcast. ...</itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>1</itunes:episode>
+
+						<description><![CDATA[This is a quick introduction to cover what I am hoping to achieve with this podcast.<br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>]]></description>
+
+						<itunes:summary><![CDATA[This is a quick introduction to cover what I am hoping to achieve with this podcast.<br /><hr><p style='color:grey; font-size:0.75em;'> See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>]]></itunes:summary>
+
+</item>
+
+			<itunes:category text="History"/>
+</channel>
+
+</rss>
