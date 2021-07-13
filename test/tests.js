@@ -32,17 +32,17 @@ describe('Podcast feed parser', () => {
     });
   });
 
-  it('should parse feed 1', function (done) {
-    parse(fixtures['ex1'], (err, data) => {
-      if (err) {
-        return done(err);
-      }
+  // it('should parse feed 1', function (done) {
+  //   parse(fixtures['ex1'], (err, data) => {
+  //     if (err) {
+  //       return done(err);
+  //     }
 
-      expect(data).to.have.property('title');
+  //     expect(data).to.have.property('title');
 
-      done();
-    });
-  });
+  //     done();
+  //   });
+  // });
 
   it('should parse feed 2', function (done) {
     parse(fixtures['ex2'], (err, data) => {

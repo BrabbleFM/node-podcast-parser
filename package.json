@@ -1,7 +1,7 @@
 {
   "name": "@brabblefm/node-podcast-parser",
   "description": "Parse podcast feeds into objects",
-  "version": "2.3.0",
+  "version": "2.3.4",
   "main": "index.js",
   "scripts": {
     "build": "babel src/index.js --out-file index.js",
