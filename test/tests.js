@@ -32,62 +32,49 @@ describe('Podcast feed parser', () => {
     });
   });
 
-  it('should return expected format', function (done) {
-    parse(fixtures['apple-example'], (err, data) => {
+  it('should parse feed 1', function (done) {
+    parse(fixtures['ex1'], (err, data) => {
       if (err) {
         return done(err);
       }
 
       expect(data).to.have.property('title');
-      expect(data).to.have.property('link');
-      expect(data).to.have.property('language');
-      expect(data).to.have.property('description');
-      expect(data.description).to.have.property('short');
-      expect(data.description).to.have.property('long');
-      expect(data).to.have.property('image');
-      expect(data).to.have.property('categories');
-      expect(data).to.have.property('author');
-      expect(data).to.have.property('owner');
-      expect(data).to.have.property('updated');
-      expect(data).to.have.property('explicit');
-      expect(data).to.have.property('episodes');
 
-      expect(data.title).to.be.a('string');
-      expect(data.link).to.be.a('string');
-      expect(data.language).to.be.a('string');
-      expect(data.description.short).to.be.a('string');
-      expect(data.description.long).to.be.a('string');
-      expect(data.image).to.be.a('string');
-      expect(data.explicit).to.be.a('boolean');
-      expect(data.categories).to.be.an(Array);
-      expect(data.updated).to.be.a(Date);
-      expect(data.episodes).to.be.an(Array);
-      expect(data.author).to.be.a('string');
+      done();
+    });
+  });
 
-      expect(data.owner).to.have.property('name');
-      expect(data.owner).to.have.property('email');
+  it('should parse feed 2', function (done) {
+    parse(fixtures['ex2'], (err, data) => {
+      if (err) {
+        return done(err);
+      }
 
-      const episode = data.episodes[0];
-      expect(episode).to.have.property('guid');
-      expect(episode).to.have.property('title');
-      expect(episode).to.have.property('description');
-      expect(episode).to.have.property('published');
-      expect(episode).to.have.property('image');
-      expect(episode).to.have.property('duration');
-      expect(episode).to.have.property('explicit');
-      expect(episode).to.have.property('enclosure');
+      expect(data).to.have.property('title');
 
-      expect(episode.guid).to.be.a('string');
-      expect(episode.title).to.be.a('string');
-      expect(episode.description).to.be.a('string');
-      expect(episode.published).to.be.a(Date);
-      expect(episode.image).to.be.a('string');
-      expect(episode.explicit).to.be.a('boolean');
-      expect(episode.duration).to.be.a('number');
+      done();
+    });
+  });
 
-      expect(episode.enclosure).to.have.property('filesize');
-      expect(episode.enclosure).to.have.property('type');
-      expect(episode.enclosure).to.have.property('url');
+  it('should parse feed 3', function (done) {
+    parse(fixtures['ex3'], (err, data) => {
+      if (err) {
+        return done(err);
+      }
+
+      expect(data).to.have.property('title');
+
+      done();
+    });
+  });
+
+  it('should parse feed 4', function (done) {
+    parse(fixtures['ex4'], (err, data) => {
+      if (err) {
+        return done(err);
+      }
+
+      expect(data).to.have.property('title');
 
       done();
     });
